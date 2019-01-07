@@ -1,0 +1,11 @@
+
+.current-proxy {
+    color: #ff0000;
+}
+
+.add-proxy-field{
+    padding-right:10px;
+    padding-left:10px;
+    margin-right:20px;
+    margin-left:20px;
+}

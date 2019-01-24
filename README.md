@@ -8,7 +8,7 @@ Originally forked from: https://extensions.gnome.org/extension/589/proxifier/ bu
 Should work with gnome shell version: ["3.16", "3.18", "3.20", "3.22", "3.24", "3.26", "3.27", "3.28"]
 
 Intallation:
-Simply drop the folder in your .local/share/gnome-shell/extension and reboot your pc.
+Simply drop the folder in your .local/share/gnome-shell/extensions/Proxy_Manager@DrRek and reboot your pc.
 
 Usage:
 Add new proxy writing the ip:port (ex. 127.0.0.1:8080) in the textfield and press Enter.
